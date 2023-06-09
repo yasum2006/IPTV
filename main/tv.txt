@@ -1,74 +1,181 @@
-4K60PSDR-H264-AAC测试,http://159.75.85.63:5680/d/ad/h264/playad.m3u8
-4K60PHLG-HEVC-EAC3测试,http://159.75.85.63:5680/d/ad/playad.m3u8
-BTV纪实科教-8KSDR源,http://111.62.156.15/downlive.brtvcloud.com/8krongmei1502/1502rongmeike8k.m3u8
-苏州4K,http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
-欢笑剧场4KHLG小果源,http://159.75.85.63:5681/sxg.php?id=hxjc-4k_8000
-欢笑剧场4K,http://111.11.123.37:6610/000000001000/5000000007000010001/index.m3u8?channel-id=bestzb&Contentid=5000000007000010001&livemode=1&stbId=3
-纯享4K,http://111.11.123.37:6610/000000001000/1000000004000011651/index.m3u8?channel-id=ystenlive&Contentid=1000000004000011651&livemode=1&stbId=3
-纯享4K备,http://39.134.115.163:8080/PLTV/88888910/224/3221225786/index.m3u8
-CCTV4K-25P-HLG源,http://159.75.85.63:5679/cctv4k.php
-CCTV4K-50P-HLG小果源,http://159.75.85.63:5681/sxg.php?id=ys4Kcq_2000
-CCTV16-4K25P-SDR源,http://111.11.123.31:6610/000000001000/5000000008000023254/index.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT2197120221119175523009763&channel-id=bestzb&Contentid=5000000008000023254
-CCTV16-4K-25PHLG源,https://live.v1.mk/aishang/cctv164k
-CCTV16-4K-50P-HLG小果源,http://159.75.85.63:5681/sxg.php?id=CCTV-16-4K_8000
-爱上4K,http://111.20.40.170/PLTV/88888893/224/3221226352/index.m3u8
-北京IPTV-4K,http://221.179.217.76/PLTV/88888888/224/3221226550/1.m3u8
-BesTV-4K,http://74.119.193.113:8280/live/bestv4k/hls.m3u8
-4K影视,http://159.75.85.63:5828/4kys.php
-河南4K,http://74.119.193.113:8280/live/hn4k/hls.m3u8
-4K超高清电影,http://159.75.85.63:5681/sxg.php
-斗鱼4K,http://epg.112114.xyz/douyu/9249162
-咪咕体育-4K-HLG源,http://117.136.156.66:80/000000001000/3000000010000005180/index.m3u8
-咪咕体育-4K-HLG源-1,http://117.136.156.71:80/000000001000/3000000010000005180/index.m3u8
-咪咕体育-4K-HLG源-2,http://117.136.156.35:80/000000001000/3000000010000005180/index.m3u8
-Astro Super Sport 4K,http://tvt3.xyz:2095/play/live.php?mac=00:1A:79:00:04:02&stream=348094&extension=ts&play_token=FzoklzfqN1
-Astro Super Sport 4K-1,http://clientsportals.tv:2095/play/live.php?mac=00:1A:79:c0:0f:95&stream=348094&extension=ts&play_token=kgKJ5bkM20
-Astro Super Sport 4K-2,http://line.tektv.live/play/live.php?mac=00:1A:79:A8:0E:7F&extension=ts&play_token=KdOGLwAyZf&stream=1016544
-Astro Super Sport 4K-3,http://ultratv.one:2095/xMsGHAzQ/kYuckAK/348094
-Now Sports UHD HK,http://sheriffwoody.in:80/live/Jeff1/Jeff1/1042156.ts
-Now Sports UHD HK-1,http://ultratv.one:2095/xMsGHAzQ/kYuckAK/117957
-Now Sports UHD HK-2,http://line.tektv.live/play/live.php?mac=00:1A:79:A8:0E:7F&extension=ts&play_token=KdOGLwAyZf&stream=1032489
-Now Sports UHD HK-3,http://clientsportals.com:2095/d4Je5xwD/yadTXB63/117957
-V Sports UHD,http://clientsportals.com:2095/d4Je5xwD/yadTXB63/114242
-V Sports UHD备,http://ultratv.one:2095/xMsGHAzQ/kYuckAK/31644
-BeIN Sports 4K,http://theking365tv.ws:2103/play/live.php?mac=00:1A:79:5c:f4:67&stream=24083&extension=ts&play_token=70AEFyMfql
-Eleven Sports 1 4K,http://4iptv.xyz:8080/IvanC10/5RVePcKFMFGG/154014
-Evenement UHD,http://abc123.digital:8080/R9YN4ecdXe/Zpe9M7mxtq/496756
-Ziggo Sport 4K,http://live.iptvtotaal.com:8000/awpreneniptv/09HZaVeOmh/20560
-RTL UHD,http://live.darkside-iptv.co:8080/pMDWkZ3Uff7S/g98astfctveh/29821.ts
-Hub Premier Sport 4K,http://tvt3.xyz:2095/play/live.php?mac=00:1A:79:00:04:02&stream=348096&extension=ts&play_token=zpHQS3jtnW
-DAZN F1 UHD 4K,http://tribaliptv.com:8080/Gustavo/123456/4930
-MOVISTAR LIGA DE CAMPEONES UHD 4K,http://tribaliptv.com:8080/Gustavo/123456/12401
-ODISEA UHD 4K,http://tribaliptv.com:8080/Gustavo/123456/5195
-Sport5 4k,http://clientsportals.tv:2095/play/live.php?mac=00:1A:79:c0:0f:95&stream=59033&extension=ts&play_token=h3Jb2BBUAL
-TRT 4k,http://1x.avrupatv.xyz:8080/Murat3434/Ilker34/38904
-TRT 4k备,http://4e87b8a2.rossteleccom.net/iptv/UWSCNHYFPPFSA5/4001/index.m3u8
-DIGI 4k,http://clientsportals.tv:2095/play/live.php?mac=00:1A:79:c0:0f:95&stream=90814&extension=ts&play_token=AB1RNoAhBm
-VTC13 4K,http://vcdn1.vtc.gov.vn:1935/m_4k/smil:4k.smil/playlist.m3u8?$3840x2160
-Insight UHD,http://cdnx1.plusx.tv:8880/InsightUHD11/mono.m3u8?token=24cce35b06aecc51433333
-TRAVELXP TV 4K,http://cdnx1.plusx.tv:8880/Travelxp/mono.m3u8?token=24cce35b06aecc51433333
-NASA 4k 60P,http://cdnx1.plusx.tv:8880/NASA/mono.m3u8?token=24cce35b06aecc51433333
-MYZEN TV 4K,http://cdnx1.plusx.tv:8880/myZen/mono.m3u8?token=24cce35b06aecc51433333
-ULTRA NATURE TV 4K,http://185.236.229.31:9981/play/a01d
-Fashion4K,https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
-Clarity4K,https://d3thiix3tzne5u.cloudfront.net/playlist2160p.m3u8
-爱自然,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
-MUZZIK ZZ4000 4K,http://muzzik-live.morescreens.com/mts-a6/playlist.m3u8
-loupe 4K,https://d2dw21aq0j0l5c.cloudfront.net/playlist_3840x2160.m3u8
-Bloomberg TV+ 4K,https://bloomberg-bloombergtv-1-gb.samsung.wurl.com/manifest/playlist.m3u8
-BBC UHD,http://sheriffwoody.in:80/Jeff1/Jeff1/3157685
-Quadro 4K,http://91.207.180.142/Quadro4K/index.m3u8
-Sky Sport UHD,http://live.darkside-iptv.co:8080/pMDWkZ3Uff7S/g98astfctveh/290744.ts
-CCTV-8K-测试源,http://74.119.193.113:8280/live/cctv8k/hls.m3u8
-江苏8K测试,http://ott.mobaibox.com/PLTV/3/224/3221228132/index.m3u8
-YOSSO TV 4K,http://3efb37ea.ucomist.net/iptv/2ZDKWT2XKGZEEA/16153/index.m3u8
-минимакс-flip UHD,http://3efb37ea.ucomist.net/iptv/2ZDKWT2XKGZEEA/13057/index.m3u8
-SKY HIGH VHS UHD,http://3efb37ea.ucomist.net/iptv/2ZDKWT2XKGZEEA/17058/index.m3u8
-SKY HIGH UHD HDR,http://3efb37ea.ucomist.net/iptv/2ZDKWT2XKGZEEA/17059/index.m3u8
-SKY HIGH DANCE UHD,http://3efb37ea.ucomist.net/iptv/2ZDKWT2XKGZEEA/14250/index.m3u8
-SKY HIGH DOC UHD,http://3efb37ea.ucomist.net/iptv/2ZDKWT2XKGZEEA/17053/index.m3u8
-SKY HIGH NATURE 4K HDR,http://3efb37ea.ucomist.net/iptv/2ZDKWT2XKGZEEA/14248/index.m3u8
-Liberty KINOENG  UHD,http://3efb37ea.ucomist.net/iptv/2ZDKWT2XKGZEEA/17060/index.m3u8
-Liberty MARVEL 4K,http://3efb37ea.ucomist.net/iptv/2ZDKWT2XKGZEEA/15090/index.m3u8
-Liberty Кино Микс 4K,http://3efb37ea.ucomist.net/iptv/2ZDKWT2XKGZEEA/15110/index.m3u8
-Liberty Мульт 4K,http://3efb37ea.ucomist.net/iptv/2ZDKWT2XKGZEEA/18051/index.m3u8
+#EXTM3U url-logos="https://cdn.jsdelivr.net/gh/BurningC4/tvg-logo@master/"
+
+#EXTINF:-1 tvg-id="cctv1" tvg-logo="cctv1.png",CCTV-1 综合
+http://ott.mobaibox.com/PLTV/3/224/3221227375/index.m3u8
+
+#EXTINF:-1 tvg-id="cctv2" tvg-logo="cctv2.png",CCTV-2 财经
+http://ott.mobaibox.com/PLTV/3/224/3221226993/index.m3u8
+
+#EXTINF:-1 tvg-id="cctv3" tvg-logo="cctv3.png",CCTV-3 综艺
+http://ott.mobaibox.com/PLTV/3/224/3221227295/index.m3u8
+
+#EXTINF:-1 tvg-id="cctv4" tvg-logo="cctv4.png",CCTV-4 中文国际
+http://ott.mobaibox.com/PLTV/3/224/3221227378/index.m3u8
+
+#EXTINF:-1 tvg-id="cctv5" tvg-logo="cctv5.png",CCTV-5 体育
+http://ott.mobaibox.com/PLTV/3/224/3221227298/index.m3u8
+
+#EXTINF:-1 tvg-id="cctv5plus" tvg-logo="cctv5plus.png",CCTV-5+ 体育赛事
+http://ott.mobaibox.com/PLTV/3/224/3221227381/index.m3u8
+
+#EXTINF:-1 tvg-id="cctv6" tvg-logo="cctv6.png",CCTV-6 电影
+http://ott.mobaibox.com/PLTV/3/224/3221227301/index.m3u8
+
+#EXTINF:-1 tvg-id="cctv7" tvg-logo="cctv7.png",CCTV-7 国防军事
+http://ott.mobaibox.com/PLTV/3/224/3221227314/index.m3u8
+
+#EXTINF:-1 tvg-id="cctv8" tvg-logo="cctv8.png",CCTV-8 电视剧
+http://ott.mobaibox.com/PLTV/3/224/3221227304/index.m3u8
+
+#EXTINF:-1 tvg-id="cctvjilu" tvg-logo="cctvjilu.png",CCTV-9 纪录
+http://ott.mobaibox.com/PLTV/3/224/3221225532/index.m3u8
+
+#EXTINF:-1 tvg-id="cctv10" tvg-logo="cctv10.png",CCTV-10 科教
+http://ott.mobaibox.com/PLTV/3/224/3221227317/index.m3u8
+
+#EXTINF:-1 tvg-id="cctv11" tvg-logo="cctv11.png",CCTV-11 戏曲
+http://ott.mobaibox.com/PLTV/3/224/3221227524/index.m3u8
+
+#EXTINF:-1 tvg-id="cctv12" tvg-logo="cctv12.png",CCTV-12 社会与法
+http://ott.mobaibox.com/PLTV/3/224/3221225556/index.m3u8
+
+#EXTINF:-1 tvg-id="cctv13" tvg-logo="cctv13.png",CCTV-13 新闻
+http://ott.mobaibox.com/PLTV/3/224/3221225560/index.m3u8
+
+#EXTINF:-1 tvg-id="cctvchild" tvg-logo="cctvchild.png",CCTV-14 少儿
+http://ott.mobaibox.com/PLTV/3/224/3221227201/index.m3u8
+
+#EXTINF:-1 tvg-id="cctv15" tvg-logo="cctv15.png",CCTV-15 音乐
+http://ott.mobaibox.com/PLTV/3/224/3221227538/index.m3u8
+
+#EXTINF:-1 tvg-id="cctv16" tvg-logo="cctv16.png",CCTV-16 奥林匹克
+http://ott.mobaibox.com/PLTV/3/224/3221228320/index.m3u8
+
+#EXTINF:-1 tvg-id="cctv17" tvg-logo="cctv17.png",CCTV-17 农业农村
+http://ott.mobaibox.com/PLTV/3/224/3221227578/index.m3u8
+
+#EXTINF:-1 tvg-id="anhui" tvg-logo="anhui.png",安徽卫视
+http://ott.mobaibox.com/PLTV/3/224/3221225634/index.m3u8
+
+#EXTINF:-1 tvg-id="bingtuan" tvg-logo="bingtuan.png",兵团卫视
+http://ott.mobaibox.com/PLTV/3/224/3221227025/index.m3u8
+
+#EXTINF:-1 tvg-id="btv1" tvg-logo="btv1.png",北京卫视
+http://ott.mobaibox.com/PLTV/3/224/3221227390/index.m3u8
+
+#EXTINF:-1 tvg-id="btvchild" tvg-logo="btvchild.png",卡酷少儿
+http://ott.mobaibox.com/PLTV/3/224/3221226305/index.m3u8
+
+#EXTINF:-1 tvg-id="btvjishi" tvg-logo="btvjishi.png",BTV纪实
+http://ott.mobaibox.com/PLTV/3/224/3221227711/index.m3u8
+
+#EXTINF:-1 tvg-id="cetv1" tvg-logo="cetv1.png",CETV-1
+http://ott.mobaibox.com/PLTV/3/224/3221225909/index.m3u8
+
+#EXTINF:-1 tvg-id="cetv2" tvg-logo="cetv2.png",CETV-2
+http://ott.mobaibox.com/PLTV/3/224/3221225850/index.m3u8
+
+#EXTINF:-1 tvg-id="cetv3" tvg-logo="cetv3.png",CETV-3
+http://ott.mobaibox.com/PLTV/3/224/3221227018/index.m3u8
+
+#EXTINF:-1 tvg-id="cetv4" tvg-logo="cetv4.png",CETV-4
+http://ott.mobaibox.com/PLTV/3/224/3221227028/index.m3u8
+
+#EXTINF:-1 tvg-id="chongqing" tvg-logo="chongqing.png",重庆卫视
+http://ott.mobaibox.com/PLTV/3/224/3221227550/index.m3u8
+
+#EXTINF:-1 tvg-id="dongfang" tvg-logo="dongfang.png",东方卫视
+http://ott.mobaibox.com/PLTV/3/224/3221227396/index.m3u8
+
+#EXTINF:-1 tvg-id="dongnan" tvg-logo="dongnan.png",东南卫视
+http://ott.mobaibox.com/PLTV/3/224/3221227553/index.m3u8
+
+#EXTINF:-1 tvg-id="gansu" tvg-logo="gansu.png",甘肃卫视
+http://ott.mobaibox.com/PLTV/3/224/3221228166/index.m3u8
+
+#EXTINF:-1 tvg-id="guangdong" tvg-logo="guangdong.png",广东卫视
+http://ott.mobaibox.com/PLTV/3/224/3221227399/index.m3u8
+
+#EXTINF:-1 tvg-id="guangxi" tvg-logo="guangxi.png",广西卫视
+http://ott.mobaibox.com/PLTV/3/224/3221228183/index.m3u8
+
+#EXTINF:-1 tvg-id="guizhou" tvg-logo="guizhou.png",贵州卫视
+http://ott.mobaibox.com/PLTV/3/224/3221228136/index.m3u8
+
+#EXTINF:-1 tvg-id="hebei" tvg-logo="hebei.png",河北卫视
+http://ott.mobaibox.com/PLTV/3/224/3221228106/index.m3u8
+
+#EXTINF:-1 tvg-id="heilongjiang" tvg-logo="heilongjiang.png",黑龙江卫视
+http://ott.mobaibox.com/PLTV/3/224/3221227323/index.m3u8
+
+#EXTINF:-1 tvg-id="henan" tvg-logo="henan.png",河南卫视
+http://ott.mobaibox.com/PLTV/3/224/3221228221/index.m3u8
+
+#EXTINF:-1 tvg-id="hubei" tvg-logo="hubei.png",湖北卫视
+http://ott.mobaibox.com/PLTV/3/224/3221227377/index.m3u8
+
+#EXTINF:-1 tvg-id="hunan" tvg-logo="hunan.png",湖南卫视
+http://ott.mobaibox.com/PLTV/3/224/3221227320/index.m3u8
+
+#EXTINF:-1 tvg-id="jiangsu" tvg-logo="jiangsu.png",江苏卫视
+http://ott.mobaibox.com/PLTV/3/224/3221227402/index.m3u8
+
+#EXTINF:-1 tvg-id="jiangxi" tvg-logo="jiangxi.png",江西卫视
+http://ott.mobaibox.com/PLTV/3/224/3221225536/index.m3u8
+
+#EXTINF:-1 tvg-id="jilin" tvg-logo="jilin.png",吉林卫视
+http://ott.mobaibox.com/PLTV/3/224/3221228130/index.m3u8
+
+#EXTINF:-1 tvg-id="liaoning" tvg-logo="liaoning.png",辽宁卫视
+http://ott.mobaibox.com/PLTV/3/224/3221227380/index.m3u8
+
+#EXTINF:-1 tvg-id="neimenggu" tvg-logo="neimenggu.png",内蒙古卫视
+http://ott.mobaibox.com/PLTV/3/224/3221225836/index.m3u8
+
+#EXTINF:-1 tvg-id="ningxia" tvg-logo="ningxia.png",宁夏卫视
+http://ott.mobaibox.com/PLTV/3/224/3221225842/index.m3u8
+
+#EXTINF:-1 tvg-id="qinghai" tvg-logo="qinghai.png",青海卫视
+http://ott.mobaibox.com/PLTV/3/224/3221225783/index.m3u8
+
+#EXTINF:-1 tvg-id="sdetv" tvg-logo="sdetv.png",山东教育电视台
+http://ott.mobaibox.com/PLTV/3/224/3221227019/index.m3u8
+
+#EXTINF:-1 tvg-id="shandong" tvg-logo="shandong.png",山东卫视
+http://ott.mobaibox.com/PLTV/3/224/3221227310/index.m3u8
+
+#EXTINF:-1 tvg-id="shan1xi" tvg-logo="shan1xi.png",山西卫视
+http://ott.mobaibox.com/PLTV/3/224/3221225786/index.m3u8
+
+#EXTINF:-1 tvg-id="shan3xi" tvg-logo="shan3xi.png",陕西卫视
+http://ott.mobaibox.com/PLTV/3/224/3221227022/index.m3u8
+
+#EXTINF:-1 tvg-id="shenzhen" tvg-logo="shenzhen.png",深圳卫视
+http://ott.mobaibox.com/PLTV/3/224/3221227307/index.m3u8
+
+#EXTINF:-1 tvg-id="sichuan" tvg-logo="sichuan.png",四川卫视
+http://ott.mobaibox.com/PLTV/3/224/3221228171/index.m3u8
+
+#EXTINF:-1 tvg-id="tianjin" tvg-logo="tianjin.png",天津卫视
+http://ott.mobaibox.com/PLTV/3/224/3221227382/index.m3u8
+
+#EXTINF:-1 tvg-id="travel" tvg-logo="travel.png",海南卫视
+http://ott.mobaibox.com/PLTV/3/224/3221228139/index.m3u8
+
+#EXTINF:-1 tvg-id="xiamen" tvg-logo="xiamen.png",厦门卫视
+http://ott.mobaibox.com/PLTV/3/224/3221226996/index.m3u8
+
+#EXTINF:-1 tvg-id="xinjiang" tvg-logo="xinjiang.png",新疆卫视
+http://ott.mobaibox.com/PLTV/3/224/3221225844/index.m3u8
+
+#EXTINF:-1 tvg-id="xizang" tvg-logo="xizang.png",西藏卫视
+http://ott.mobaibox.com/PLTV/3/224/3221226376/index.m3u8
+
+#EXTINF:-1 tvg-id="yanbian" tvg-logo="yanbian.png",延边卫视
+http://ott.mobaibox.com/PLTV/3/224/3221227002/index.m3u8
+
+#EXTINF:-1 tvg-id="yunnan" tvg-logo="yunnan.png",云南卫视
+http://ott.mobaibox.com/PLTV/3/224/3221228169/index.m3u8
+
+#EXTINF:-1 tvg-id="zhejiang" tvg-logo="zhejiang.png",浙江卫视
+http://ott.mobaibox.com/PLTV/3/224/3221227393/index.m3u8
